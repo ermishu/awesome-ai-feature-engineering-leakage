@@ -464,7 +464,7 @@ Important tool categories include:
 This section contains existing open-source implementations relevant to
 the research topic.
 
-[View GitHub Implementations](implementations/github-repositories.md)
+[View GitHub Implementations](implementations/implementations.md)
 
 Repositories are evaluated using criteria including:
 
